@@ -1,1 +1,1 @@
-echo "welcome to CGI"
+echo "welcome to CGI and CGI"
